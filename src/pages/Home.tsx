@@ -7,9 +7,11 @@ import { Simulate } from "../components/Simulate";
 import { Quotes, FoundIssue } from "../components";
 
 export function Home() {
+  // @ts-ignore
   const navigate = useNavigate();
 
   const canvasRef = useRef<any>();
+  // @ts-ignore
   let [outputs, setOutputs] = useState<{ [key: number]: number[] }>({
     0: [],
     1: [],

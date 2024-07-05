@@ -1,1 +1,1 @@
-export const baseURL = "http://localhost:3000";
+export const baseURL = "https://plinko-gambling-application-backend-1.onrender.com";
