@@ -1,3 +1,3 @@
 # Plinko-Gambling-Application
 
-Live Link : 
+Live Link : https://plinko-gaming.web.app/game
