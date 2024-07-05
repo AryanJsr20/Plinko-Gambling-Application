@@ -31,7 +31,7 @@ export function Game() {
           }
         }}
       >
-        Add ball
+        Add New ball
       </Button>
     </div>
   );

@@ -23,7 +23,7 @@ export function Game() {
                 if (ballManager) {
                     ballManager.addBall(response.data.point);
                 }
-            }}>Add ball</button>
+            }}>Add more ball</button>
         </div>
     )
 }
