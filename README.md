@@ -1,1 +1,1 @@
-Live Link: https://plinko-gaming.netlify.app/game
+Live Link: https://plinko-gaming.netlify.app/
